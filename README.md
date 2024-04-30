@@ -1,4 +1,4 @@
-# Layout of the main page of the Madimal store using GULP assembly
+# Layout of the main page of the Modimal store using GULP assembly
 
 Technologies:
     - HTML,
